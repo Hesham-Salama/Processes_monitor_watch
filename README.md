@@ -2,7 +2,9 @@
 
 This is a multi-threaded monitor processes program in python to watch for the started and killed processes in python.
 
-I didn't find any sufficient resources about this so I uploaded this program.
+I didn't find sufficient resources about this so I uploaded this program.
+
+Credits to this guy for some resources: https://github.com/MinhazAbtahi/
 
 Just some license agreement stuff:
 
