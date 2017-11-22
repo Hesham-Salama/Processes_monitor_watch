@@ -1,6 +1,6 @@
 # Processes_monitor_watch
 
-This is a monitor processes program in python to watch for the started or killed processes in python.
+This is a multi-threaded monitor processes program in python to watch for the started and killed processes in python.
 
 I didn't find any sufficient resources about this so I uploaded this program.
 
